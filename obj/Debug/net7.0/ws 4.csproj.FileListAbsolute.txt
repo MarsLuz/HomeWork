@@ -1,0 +1,15 @@
+C:\Users\marks\OneDrive\Desktop\ws 4\bin\Debug\net7.0\ws 4.exe
+C:\Users\marks\OneDrive\Desktop\ws 4\bin\Debug\net7.0\ws 4.deps.json
+C:\Users\marks\OneDrive\Desktop\ws 4\bin\Debug\net7.0\ws 4.runtimeconfig.json
+C:\Users\marks\OneDrive\Desktop\ws 4\bin\Debug\net7.0\ws 4.dll
+C:\Users\marks\OneDrive\Desktop\ws 4\bin\Debug\net7.0\ws 4.pdb
+C:\Users\marks\OneDrive\Desktop\ws 4\obj\Debug\net7.0\ws 4.csproj.AssemblyReference.cache
+C:\Users\marks\OneDrive\Desktop\ws 4\obj\Debug\net7.0\ws 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marks\OneDrive\Desktop\ws 4\obj\Debug\net7.0\ws 4.AssemblyInfoInputs.cache
+C:\Users\marks\OneDrive\Desktop\ws 4\obj\Debug\net7.0\ws 4.AssemblyInfo.cs
+C:\Users\marks\OneDrive\Desktop\ws 4\obj\Debug\net7.0\ws 4.csproj.CoreCompileInputs.cache
+C:\Users\marks\OneDrive\Desktop\ws 4\obj\Debug\net7.0\ws 4.dll
+C:\Users\marks\OneDrive\Desktop\ws 4\obj\Debug\net7.0\refint\ws 4.dll
+C:\Users\marks\OneDrive\Desktop\ws 4\obj\Debug\net7.0\ws 4.pdb
+C:\Users\marks\OneDrive\Desktop\ws 4\obj\Debug\net7.0\ws 4.genruntimeconfig.cache
+C:\Users\marks\OneDrive\Desktop\ws 4\obj\Debug\net7.0\ref\ws 4.dll
